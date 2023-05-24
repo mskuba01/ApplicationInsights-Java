@@ -1,0 +1,15 @@
+com/
+com/microsoft/
+com/microsoft/applicationinsights/
+com/microsoft/applicationinsights/agent/.*
+io/
+io/opentelemetry/
+io/opentelemetry/javaagent/.*
+META-INF/
+META-INF/MANIFEST\.MF
+LICENSE
+NOTICE
+ai\.sdk-version\.properties
+applicationinsights-java-etw-provider-x86-64\.dll
+applicationinsights-java-etw-provider-x86\.dll
+inst/.*

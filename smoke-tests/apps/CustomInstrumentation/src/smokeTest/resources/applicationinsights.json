@@ -1,0 +1,17 @@
+{
+  "role": {
+    "name": "testrolename",
+    "instance": "testroleinstance"
+  },
+  "sampling": {
+    "percentage": 100
+  },
+  "preview": {
+    "customInstrumentation": [
+      {
+        "className": "com.microsoft.applicationinsights.smoketestapp.TestController",
+        "methodName": "run"
+      }
+    ]
+  }
+}
